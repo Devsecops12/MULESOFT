@@ -113,13 +113,13 @@
 			<version>1.4.5</version>
 			<classifier>mule-plugin</classifier>
 		</dependency>
-		<dependency>
+<!-- 		<dependency>
 			<groupId>dd352549-b3e6-4dd6-b86f-85ed018825af</groupId>
 			<artifactId>movie</artifactId>
 			<version>1.0.0</version>
 			<classifier>raml</classifier>
 			<type>zip</type>
-		</dependency>
+		</dependency> -->
 		<dependency>
 			<groupId>com.mulesoft.munit</groupId>
 			<artifactId>munit-runner</artifactId>
